@@ -26,18 +26,22 @@ O foco principal deste projeto é se familiarizar com o uso do Nest.js para a co
 ## Como Executar o Projeto
 
 1. Clone o repositório.
-   ```bash
+
+```bash
    git clone <URL do repositório>
-   ``` 
+``` 
 2. Instale as dependências.
 
-   ```bash
-    npm install
-  ```
+```bash
+  npm install
+```
 3. Inicie o servidor.
-    ```bash
+
+```bash
     npm run start
-    ```
+```
+*-*-*-*-*-*-*-*--*-*-*-*-*-*-*-*-*--*-*-*-*-*-*-*-*--*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*--*
+
 **Recursos**
 Para mais informações sobre o Nest.js e sua documentação completa, visite Nest.js Documentation.
 
